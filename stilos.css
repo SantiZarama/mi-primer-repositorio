@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+#contenedor{
+    width: 1536px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+header{
+    background-color: white;
+    overflow: hidden;
+    height: 120px;
+}
+.logo{
+    width: 30px;
+    height: 10px;
+    float:left;
+    margin: 10px 20px
+}
+select{
+    font-size: 12px;
+    color: red;
+    background-color: #fff;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 12px;
+    width: 200px;
+    margin-bottom: 10px;
+    float:left;
+    margin: 25px 10px 60px 860px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+}
+option{
+    font-size: 16px;
+    color: #333;
+    background-color: #fff;
+}
+.menu{
+    float:left;
+    margin: 25px 5px 60px 5px;
+    color: white;
+    background-color: rgb(225, 7, 7);
+    border-radius: 20px;
+    padding: 11px;
+    width: 180px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
